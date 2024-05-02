@@ -27,7 +27,7 @@ import geocoder
 def get_location_from_ip(ip_address):
     g = geocoder.ip(ip_address)
     if g.ok:
-        return g.city
+        return f"{g.country}, {g.city}"
     else:
         return "Location not found"
 print("                              ")
