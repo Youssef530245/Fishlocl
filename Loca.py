@@ -1,3 +1,5 @@
+import geocoder
+
 def print_banner(word):
     letters = {
         'F': ['  #####', '  #', '  #####', '  #', '  #'],
@@ -17,12 +19,13 @@ def print_banner(word):
 if __name__ == "__main__":
     word = "Fishloc"
     print_banner(word)
-    print("                              ")
+    print()
+    print()
     print("                          Made by Eng/Youssef Mohamed")
     
     
     
-import geocoder
+#--------------------------------------------------------------------------------#
 
 def get_location_from_ip(ip_address):
     g = geocoder.ip(ip_address)
@@ -30,11 +33,10 @@ def get_location_from_ip(ip_address):
         return f"{g.country}, {g.city}"
     else:
         return "Location not found"
-print("                              ")
-print("                              ")
+print()
 ip_address = input("     Enter the IP address: ")
 location = get_location_from_ip(ip_address)
-print("                              ")
+print()
 print("     Location:", location)
     
     
