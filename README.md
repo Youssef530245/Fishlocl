@@ -18,4 +18,4 @@ python3 Loca.py
 
 
 
-** I'm (Eng/youssef mohamed 🌏🌏) would like to thank you for reading **
+**I'm (Eng/youssef mohamed 🌏🌏) would like to thank you for reading**
