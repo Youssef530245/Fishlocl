@@ -3,14 +3,14 @@
 the code is very simple just two functions the first for the banner of the tool name and the programmer name (my name)
 the second is for finding the location from the ip address that you entered .
 
-- Example >>>>>>        Enter the ip address : 154.182.43.135
+- Example >>>>        Enter the ip address : 154.182.43.135
 - Result  >>>>>>        The location: cairo
 
 ```
 pip install geocoder
 ```
 ```
-git clone 
+git clone https://github.com/Youssef530245/Fishlocl.git
 ```
 ```
 python3 Loca.py
