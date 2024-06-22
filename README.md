@@ -1,5 +1,5 @@
 # Fishloc
-(Fishloc) is a tool with python programming language take the ip and give you the location.
+(Fishloc) is a tool with python programming language take the ip and give you the location .
 the code is very simple just two functions the first for the banner of the tool name and the programmer name (my name)
 the second is for finding the location from the ip address that you entered .
 
