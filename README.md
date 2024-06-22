@@ -20,4 +20,4 @@ python3 Loca.py
 
 **I'm (Eng/youssef mohamed 🌏🌏) would like to thank you for reading**
 
-![Alt text](URL "img1.jpg")
+![Alt text](URL "Fishloc.png")
